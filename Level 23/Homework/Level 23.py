@@ -22,3 +22,4 @@ if index == False:
 list = ["hello", "good morning", "good evening", "good night",]
 for index in list:
     print(index.upper())
+    
